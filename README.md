@@ -10,3 +10,11 @@ I want to be an AI engineer
 #### level 4 heading
 ##### level 5 heading
 ###### level 6 heading
+
+# Bold
+**this is bold**
+this is not bold
+
+# italic
+_this is italic_
+this is not italic

@@ -32,6 +32,10 @@ this is not italic
 |musa        | S            | Abdullahi |
 
 # List
-- [X] complete markdown lectures
-- [ ] prepare for assignment
+- [x] complete markdown lectures
+- [x] prepare for assignment
 - [ ] review student submission
+
+# Horizontal line
+---
+***

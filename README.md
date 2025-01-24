@@ -21,3 +21,12 @@ this is not italic
 
 # Link
 [Arewa Datascience GitHub](https://github.com/arewadataScience/30-Days-of-Python/blob/main/03_Module_Operators/03_operators.md)
+
+# Image
+![GitHub_Logo](/image/logo.png)
+
+# Table
+| Name       | Surname      | Last Name |
+|------------|--------------|-----------|
+|Abubakar    | Hamisu       | Zango     |
+|musa        | S            | Abdullahi |

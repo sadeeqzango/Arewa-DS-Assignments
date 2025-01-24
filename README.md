@@ -18,3 +18,6 @@ this is not bold
 # italic
 _this is italic_
 this is not italic
+
+# Link
+[Arewa Datascience GitHub](https://github.com/arewadataScience/30-Days-of-Python/blob/main/03_Module_Operators/03_operators.md)

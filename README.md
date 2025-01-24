@@ -30,3 +30,8 @@ this is not italic
 |------------|--------------|-----------|
 |Abubakar    | Hamisu       | Zango     |
 |musa        | S            | Abdullahi |
+
+# List
+- [] complete markdown lectures
+- [] prepare for assignment
+- [] review student submission
